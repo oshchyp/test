@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 regfrtg rtgrtgrtgrtgrtgrtg ergregtrtgrtgrtg erferferf ergfrtgrtgrgt
 ergfregtrtgrtgrtgrtg
+<<<<<<< HEAD
 erferfef
 =======
 regfrtg rtgrtgrtgrtgrtgrtg
 >>>>>>> master 2
+=======
+erferfef r4tgrtgrgt
+>>>>>>> rebase 3
