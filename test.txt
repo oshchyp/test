@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 regfrtg rtgrtgrtgrtgrtgrtg ergregtrtgrtgrtg erferferf ergfrtgrtgrgt
 ergfregtrtgrtgrtgrtg
 erferfef
+=======
+regfrtg rtgrtgrtgrtgrtgrtg
+>>>>>>> master 2
