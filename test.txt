@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 regfrtg rtgrtgrtgrtgrtgrtg
+=======
+regfrtg rtgrtgrtgrtgrtgrtg ergregtrtgrtgrtg erferferf ergfrtgrtgrgt
+>>>>>>> merge
