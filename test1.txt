@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rtgrtgrtgvrtgrtgrtgrrtg   erf4ertgf
+=======
+rtgrtgrtgvrtgrtgrtgrrtg4rfgretrertgrtgrtg
+>>>>>>> rebase2 4
